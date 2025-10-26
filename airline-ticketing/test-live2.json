@@ -1,0 +1,12 @@
+{
+  "pnr": "LIVE002",
+  "passengerName": "Jane Smith",
+  "passengerAge": 25,
+  "origin": "BOS",
+  "destination": "SFO",
+  "departureTime": "2024-12-26T14:30:00",
+  "arrivalTime": "2024-12-26T17:45:00",
+  "flightNumber": "DL205",
+  "baseFare": 450.00,
+  "taxAmount": 75.50
+}

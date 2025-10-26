@@ -1,0 +1,12 @@
+{
+  "pnr": "FAM003",
+  "passengerName": "Sarah Brown",
+  "passengerAge": 32,
+  "origin": "ORD",
+  "destination": "DEN",
+  "departureTime": "2024-12-27T16:00:00",
+  "arrivalTime": "2024-12-27T17:30:00",
+  "flightNumber": "UA321",
+  "baseFare": 249.99,
+  "taxAmount": 40.00
+}
